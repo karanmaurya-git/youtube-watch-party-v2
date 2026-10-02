@@ -14,26 +14,18 @@ A full-stack, real-time web app where friends watch YouTube together in sync. Cr
 
 ## 🌐 View Live
 
-> Replace the placeholders below with your real URLs after deploying (see [Deployment](#-deployment)).
+|                             | Link                                                 |
+| --------------------------- | ---------------------------------------------------- |
+| 🎬 **Frontend (Vercel)**    | `https://youtube-watch-party-v2.vercel.app'          |
+| 🖥️ **Backend API (Render)** | `https://youtube-watch-party-v2-server.onrender.com' |
 
-|                             | Link                                   |
-| --------------------------- | -------------------------------------- |
-| 🎬 **Frontend (Vercel)**    | `https://YOUR-APP.vercel.app`          |
-| 🖥️ **Backend API (Render)** | `https://YOUR-SERVER.onrender.com/api` |
-| 🔌 **WebSocket**            | `wss://YOUR-SERVER.onrender.com`       |
+or click on below View Live Button
 
-> ⏳ Render's free tier sleeps when idle. The first request can take 30-60 seconds, so open the backend URL once before a demo.
+## 🌐 View Live Button
 
----
+[![View Live](https://img.shields.io/badge/🎬_YouTube_Watch_Party-View_Live-success?style=for-the-badge)](https://youtube-watch-party-v2.vercel.app/)
 
-## 📸 Screenshots
-
-![Dashboard](docs/screenshots/dashboard.png)
-
-<!-- Add more screenshots here, for example:
-![Watch room](docs/screenshots/room.png)
-![Login](docs/screenshots/login.png)
--->
+[![Backend Server](https://img.shields.io/badge/🖥️_Backend_Server-View_Live-blue?style=for-the-badge)](https://youtube-watch-party-v2-server.onrender.com/) |
 
 ---
 
@@ -478,8 +470,8 @@ Import the same repo.
 Environment variables:
 
 ```env
-VITE_API_URL=https://YOUR-SERVER.onrender.com/api
-VITE_WS_URL=wss://YOUR-SERVER.onrender.com
+VITE_API_URL=https://youtube-watch-party-v2-server.onrender.com
+VITE_WS_URL=wss://youtube-watch-party-v2-server.onrender.com
 ```
 
 `client/vercel.json` rewrites every path to `index.html`, so links like `/watch/ABC234` don't 404.
