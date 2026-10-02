@@ -12,20 +12,18 @@ A full-stack, real-time web app where friends watch YouTube together in sync. Cr
 
 ---
 
-## 🌐 View Live
+## 🌐 View Live URL's
 
 |                             | Link                                                 |
 | --------------------------- | ---------------------------------------------------- |
 | 🎬 **Frontend (Vercel)**    | `https://youtube-watch-party-v2.vercel.app'          |
 | 🖥️ **Backend API (Render)** | `https://youtube-watch-party-v2-server.onrender.com' |
 
-or click on below View Live Button
-
-## 🌐 View Live Button
+## 🌐 View Live Button's
 
 [![View Live](https://img.shields.io/badge/🎬_YouTube_Watch_Party-View_Live-success?style=for-the-badge)](https://youtube-watch-party-v2.vercel.app/)
 
-[![Backend Server](https://img.shields.io/badge/🖥️_Backend_Server-View_Live-blue?style=for-the-badge)](https://youtube-watch-party-v2-server.onrender.com/) |
+[![Backend API](https://img.shields.io/badge/🖥️_Backend_Server-View_Live-blue?style=for-the-badge)](https://youtube-watch-party-v2-server.onrender.com/)
 
 ---
 
@@ -588,4 +586,4 @@ Redis Pub/Sub with multiple instances, httpOnly cookie sessions, persisted chat 
 
 ## 📄 License
 
-MIT License. Free to use, copy and modify.
+MIT License.
