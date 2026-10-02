@@ -14,10 +14,10 @@ A full-stack, real-time web app where friends watch YouTube together in sync. Cr
 
 ## 🌐 View Live URL's
 
-|                             | Link                                                 |
-| --------------------------- | ---------------------------------------------------- |
-| 🎬 **Frontend (Vercel)**    | `https://youtube-watch-party-v2.vercel.app'          |
-| 🖥️ **Backend API (Render)** | `https://youtube-watch-party-v2-server.onrender.com' |
+|                             | Link                                               |
+| --------------------------- | -------------------------------------------------- |
+| 🎬 **Frontend (Vercel)**    | https://youtube-watch-party-v2.vercel.app          |
+| 🖥️ **Backend API (Render)** | https://youtube-watch-party-v2-server.onrender.com |
 
 ## 🌐 View Live Button's
 
